@@ -1,7 +1,9 @@
 ## About Me
 
 14 year old javascript programmer and chess enthusiast.
+
 I'm currently in 9th grade.
+
 I can only play video games on weekends.
 
 ## Discord Status
