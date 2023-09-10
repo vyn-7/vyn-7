@@ -1,10 +1,8 @@
 ## About Me
 
-14 year old javascript programmer.
-
-I'm currently in 9th grade.
-
-Running out of project ideas.
+Hello, I'm Vane.
+he/him. 14.
+10th grade highscool student that loves wasting time on useless things.
 
 ## Discord Status
 <p>
