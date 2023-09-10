@@ -1,9 +1,8 @@
 ## About Me
 
-Hello, I'm Vane.
+Hey I'm Vane, just your regular 14 year old boy.
 
 
------------------------------------------------------------------
 
 
 I really love playing videogames and waste my time on useless things
@@ -11,12 +10,14 @@ I really love playing videogames and waste my time on useless things
 though, I wanna fix all of that.
 
 
------------------------------------------------------------------
 
 
-As I write this I'm thinking of spending more time on learning how to code
+As I write this I'm thinking of spending more time on learning programming languages
 
 while I'm still young so I can have more experience in the future.
+
+
+-----------------------------------------------------------------
 
 
 ## Discord Status
