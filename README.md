@@ -2,10 +2,16 @@
 
 Hello, I'm Vane.
 
+
+-----------------------------------------------------------------
+
+
 I really love playing videogames and waste my time on useless things
 
 though, I wanna fix all of that.
 
+
+-----------------------------------------------------------------
 
 
 As I write this I'm thinking of spending more time on learning how to code
