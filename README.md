@@ -1,8 +1,17 @@
 ## About Me
 
 Hello, I'm Vane.
-he/him. 14.
-10th grade highscool student that loves wasting time on useless things.
+
+I really love playing videogames and waste my time on useless things
+
+though, I wanna fix all of that.
+
+
+
+As I write this I'm thinking of spending more time on learning how to code
+
+while I'm still young so I can have more experience in the future.
+
 
 ## Discord Status
 <p>
