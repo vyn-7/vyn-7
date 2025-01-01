@@ -1,7 +1,7 @@
 ## About me:
 - he/him
-- 15
-- PH
+- 16
+- philippines
 
 ## Currently learning:
 - HTML/CSS/JavaScript/Node.js: 3 years
