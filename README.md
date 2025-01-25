@@ -3,9 +3,8 @@
 - 16
 - philippines
 
-## Currently learning:
-- HTML/CSS/JavaScript/Node.js: 3 years
-- LUA/C++: 1 month+
+Hey I'm Vane, I'm currently learning Web Development for 2 years now!
+I rarely make projects since I'm more focused in my academics and rarely have time to use my laptop.
 
 ## Discord status:
 <p>
